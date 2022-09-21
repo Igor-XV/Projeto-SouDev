@@ -1,0 +1,46 @@
+nav {
+    background-color: #222222;
+    color: #ffffff;
+    text-align: right;
+
+    /* padding-top: 20px; */
+    /* padding-bottom: 20px; */
+    /* padding-right: 20px; */
+    padding: 20px ;
+    
+}
+
+nav > a {
+    text-decoration: none; /*removendo o sublinhamento*/
+    color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+    color: gray;
+    font-size: 15pt;
+
+}
+
+section {
+    display: flex;
+}
+
+section > div {
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+    }
+
+    section > div > button{
+        height: 15%;
+    }
+
+button.mais { 
+    background-color: #444444;
+    color: #ffffff;
+}
+
+

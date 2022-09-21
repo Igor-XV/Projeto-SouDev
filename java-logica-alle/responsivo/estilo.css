@@ -1,0 +1,75 @@
+.principal {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.noticia {
+    height: 200px;
+    width: 30%;
+    margin-top: 30px;
+
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.bg-yelow{
+    background-color: yellow;
+
+
+}
+
+.bg-pink{
+    background-color: pink;
+
+
+}
+
+@media screen and (max-width:768px){
+    h1 {
+        text-align: right;
+
+    }
+    .principal{
+      
+        flex-wrap: wrap;
+        justify-content: space-between ;
+    }
+    .noticia {
+        width: 49%;
+        
+        
+    }
+
+  
+}
+
+@media screen and (max-width:400px) {
+    h1 {
+        text-align: center;
+
+    }
+    .principal{
+        display: contents;
+    }
+    .noticia {
+        width: 100%;
+    }
+
+}
+

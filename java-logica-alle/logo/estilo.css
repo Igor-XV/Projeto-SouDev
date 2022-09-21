@@ -1,0 +1,69 @@
+html, body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:gainsboro;
+    height: 100%;
+}
+
+.navbar {
+    background-color: black;
+    height: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.button {
+    align-items:center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.navbar .logo {
+    font-size: 1.8rem;
+    margin-left: 20px;
+    font-family:'Press Start 2P', sans-serif;
+
+}
+
+.menu li {
+    display: inline;
+    margin-right: 10px;
+    
+}
+
+.menu a, .navbar .logo {
+    text-decoration: none;
+    color: aliceblue;
+
+
+
+}
+
+.menu a:hover {
+    background-color: green;
+    text-decoration: underline;
+    
+}
+
+.menu-mobile {
+    display: none;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .menu {
+        display:none;
+    }
+
+    .menu-mobile {
+        display: block;
+    }
+
+}
+
+

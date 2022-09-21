@@ -1,0 +1,34 @@
+1-TAGS HTML
+todas as tags tem abertura e fechamento <tag> </tag>
+<nome_tag> </nome_tag>
+<nome_tag/>
+< menor Q 
+>maior Q
+aria pra acessibilidade
+
+
+
+2-ATRIBUTOS EM TAGS
+ID-identificação da tag
+HIDDEN- esconder a tag
+ALT- alternatico,em caso de falha ao carregar a tag
+
+
+ID
+STYLE
+CLASS
+HIDDEN
+TRUL
+<img src="" alt=""/>
+
+<title> é usado dentro do <html>
+<meta> tbm fica dentro do <head>
+
+TAGS ESTRUTURAIS TODAS VAO DENTRO DO Body
+
+
+
+color -hex. com (ver as cores)
+margin(distanciamento externo)
+padding (distanciamento interno)
+

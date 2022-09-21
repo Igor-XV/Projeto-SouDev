@@ -1,0 +1,19 @@
+logica
+   bolleana
+     -true 
+     -false
+
+( ? = se / : = se nao)
+
+-tipos de dados mais primitivos 
+
+string
+interger
+float
+bool/ boolean
+
+
+escrever variavel em minusculo
+escrever uma constante em maiusculo
+
+dom = documents objetion moder

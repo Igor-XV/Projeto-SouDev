@@ -1,0 +1,13 @@
+.style {
+    background-color:black;
+    color: aliceblue;
+}
+
+.lt {
+    background-color: gray;
+}
+
+.borda {
+    border-radius: 5px;
+    
+}

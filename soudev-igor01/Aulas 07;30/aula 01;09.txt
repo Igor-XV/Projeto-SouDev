@@ -1,0 +1,26 @@
+1-scrum sprint
+modelo cascata ( waterfall )- antigamente 
+sprint plannig ( planejamento) - (interno)
+backlog - (conjunto de tarefas)- (origem cliente)
+todo final de sprint tem o sprint review (revisao) - ( ver o que nao ficou legal) - (interno)
+daily ( reuniao diaria pra dizer o que vc fez e o que pretende fazer hoje/ bloqueio)
+
+2-PAPEIS
+
+scrum master - daily ( responsal por manter o scrum funcinando )
+product owner (dono do produto )- daily ( conversa com o cliente )
+stack holder (cliente, quem tem interesse no produto e participa do backlogg)
+
+3- kanban - como vamos organizar as tarefas 
+estados das tarefas
+a fazer.(to do)- ( geralmente o que esta no sprint)
+fazendo. (in progress)
+feito. (done)
+
+4-rituais
+plane
+review
+daily
+
+5- 
+

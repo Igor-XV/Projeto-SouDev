@@ -1,0 +1,23 @@
+if - Condição /condicional
+
+let a =true
+let b = false
+let c = a 88 b (condição) = false
+
+
+if . (condição). { // caso condição seja true,executar}
+
+if.(condição) // caso condição seja true,executar
+
+if.(condição).{ //caso condição seja true} .else.{//caso condição seja false}
+
+
+condicional
+
+switch(condicional)
+
+case = caso
+break = parar a execução 
+(decisao simples)-if = se 
+(decisao composta) if-else = se nao 
+do = enquanto

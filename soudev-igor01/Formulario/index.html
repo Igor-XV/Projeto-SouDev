@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulario</h1>
+    <hr>
+
+
+    <form action="praondevai.html" method="get">
+        <label for="email">e-mail</label>
+        <input id="email" type="email" required placeholder="pamonha@gmail.com">
+
+        <br>
+        <label for="Senha">Senha</label>
+        <input id="senha" type="password" minlength="8">
+
+        <br>
+        <label for="idade">Idade</label>
+        <input id="idade" type="number" min="18" max="99">
+
+        <br>
+        <label for="site">Site</label>
+        <input type="url" id="site" placeholder="http//:google.com">
+
+        <br>
+        <label for="data">Data de nascimento</label>
+        <input type="date" id="data">
+        <label for="hora">Hora</label>
+        <input type="time" id="hora">
+
+        <br>
+        <label for="foto">Foto</label>
+        <input type="file" id="foto">
+
+        <br>
+        <label for="cor">Escolha a cor da camisa</label>
+        <input type="color" id="cor">
+
+        <br>
+        <input type="hidden" name="token" value="pomonha">
+
+        <p>ESCOLHA SEU TURNO</p>
+        <label for="manha">Manha</label>
+        <input name="turno" id="manha" type="radio" value="Manha">
+        <br>
+        <label for="tarde">Tarde</label>
+        <input name="turno"  name="turno"id="tarde" type="radio" value="Tarde">
+        <br>
+        <label for="noite">Noite</label>
+        <input name="turno" id="noite" type="radio" value="Noite">
+
+        <br>
+        <p>Curso</p>
+        <label for="js">Java</label>
+        <input name="Curso" id="js" type="checkbox" value="Java">
+        <br>
+        <label for="css">CSS</label>
+        <input name="Curso" id="css" type="checkbox" value="Css">
+        <br>
+        <label for="php">Java</label>
+        <input name="Curso" id="php" type="checkbox" value="Php">
+
+        <br>
+        <label for="msg">Mensagem</label>
+        <textarea name="Mensagem" id="msg" placeholder="Digite Aqui"></textarea>
+
+        <br>
+        <label for="cite">Selecione a Cidade</label>
+        <select name="Cidade" id="cite">
+            <option value="">Selecione</option>
+            <option value="">Fortaleza</option>
+            <option value="">Maracanau</option>
+            <option value="">Caucaia</option>
+            <option value="">Sobral</option>
+        </select>
+
+        
+        <br>
+        <button>Entrar</button>
+
+
+
+    </form>
+    
+</body>
+</html>

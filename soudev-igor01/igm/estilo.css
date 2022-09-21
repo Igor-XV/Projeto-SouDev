@@ -1,0 +1,16 @@
+.imagem {
+    width: 1000px;
+    height: 550px;
+
+}
+
+.copa { 
+    width: 1000px;
+    height: 550px;
+}
+
+body {
+ background-image:url("/cores.jpg");
+ background-repeat: no-repeat;
+
+}

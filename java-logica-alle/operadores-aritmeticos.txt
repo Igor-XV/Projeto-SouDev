@@ -1,0 +1,12 @@
+<h1>Operadores aritmeticos</h1>
+<hr>
+
+<ul>
+    <li><code> + </code>soma(10+5 == 15)</li>
+    <li><code> - </code>subtração ( 3-5 == - 2)</li>
+    <li><code> * </code>multiplicação(5 * 5 == 25)</li>
+    <li><code> / </code> divisão(5 / 5 == 1)</li>
+    
+    <br>
+
+    <li><code> % </code> resto da divisão (10 % 3 == 1)</li>

@@ -1,0 +1,18 @@
+-string
+-int
+-float
+-bool
+
+
+funções nao sao variaveis(nao pode por o mesmo nome )
+
+tudo no javascrip é um array!
+
+array cria uma var com varias posições 
+todo array começa na posição 0
+toda lista tem que ter uma virgula (,)
+
+quando usar o cifrão ${} para buscar um elento esterno
+
+
+array matrix (pesquisa)

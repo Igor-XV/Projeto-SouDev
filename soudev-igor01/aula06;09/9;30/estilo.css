@@ -1,0 +1,70 @@
+body {
+    width: 90%;
+    margin: auto;
+
+}
+
+img {
+    width: 100px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+th,td {
+    border: 1px solid black;
+}
+
+thead {
+    background-color: black;
+    color: white;
+    height:40px;
+}
+
+thead {
+    text-align:center ;
+}
+tbody {
+    text-align: center;
+}
+
+td:last-child{
+    text-align: right;
+    padding-right: 10px;
+}
+
+button {
+    border-radius: 5px;
+    border: 0;
+    padding: 10px;
+}
+
+button:first-child {
+    background-color: yellow;
+}
+
+button:last-child {
+    background-color: red;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+tbody > tr:nth-child(even){
+    background-color: gray;
+}
+
+tbody > tr:hover > td{
+    text-decoration: underline;
+}
+
+td:last-child {
+    text-decoration: none !important;
+}

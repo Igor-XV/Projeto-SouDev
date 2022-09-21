@@ -1,0 +1,14 @@
+Estruturas {
+    -Estrutura sequecial
+    -Estruturas de Decisão
+        -simples (IF)
+        -composta ( IF/ELSE)
+        -Encadeada/Condicionada (IF/ELSEIF/ELSE)
+        -Multipla Escolha (Switch/Case)
+        
+    -Estrutura de Repetição
+        -Com Condição no inicio
+        -com condição no fim
+        -com variavel de controle
+        
+}
